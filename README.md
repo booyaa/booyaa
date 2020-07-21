@@ -16,23 +16,9 @@
 ```
 ### Hi there 👋
 
-- 🔭 I’m currently working on managing PgBouncer using Ansible
-- 🌱 I’m currently learning new things everyday (no lie)
+- 🔭 I’m currently working encrypting disks on virtual machines
+- 🌱 I’m learning new things everyday (no lie)
 - 💬 Ask me about Azure, Terraform, Ansible, Docker and Tibetan Terriers
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/booyaa/)
 - 😄 Pronouns: he/him
-
-<!--
-**booyaa/booyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: If you find something on the interwebs that's "booyaa" related on the interwebs I probably did it
