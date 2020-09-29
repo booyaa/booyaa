@@ -16,7 +16,7 @@
 ```
 ### Hi there 👋
 
-- 🔭 I’m currently working encrypting disks on virtual machines
+- 🔭 Big refactoring of the terraform to create our serverless functions and supporting resources
 - 🌱 I’m learning new things everyday (no lie)
 - 💬 Ask me about Azure, Terraform, Ansible, Docker and Tibetan Terriers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/booyaa/)
