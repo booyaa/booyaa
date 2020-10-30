@@ -16,13 +16,17 @@
 ```
 ### Hi there 👋
 
-- 🔭 Big refactoring of the terraform to create our serverless functions and supporting resources
+- 🔭 Regretting the day I created a bespoke data refresh service
 - 🌱 I’m learning new things everyday (no lie)
 - 💬 Ask me about Azure, Terraform, Ansible, Docker and Tibetan Terriers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/booyaa/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If you find something on the interwebs that's "booyaa" related on the interwebs I probably did it
 
+<!--
+202010 - Regretting the day I created a bespoke data refresh service
+older - Big refactoring of the terraform to create our serverless functions and supporting resources
+--> 
 ### Vital Statistics :P
 
 HT to @mattn
