@@ -1,32 +1,12 @@
-```
-               \
-                \\
-                 \%,     ,'     , ,.
-                  \%\,';/J,";";";;,,.
-     ~.------------\%;((`);)));`;;,.,-----------,~
-    ~~:           ,`;@)((;`,`((;(;;);;,`         :~~
-   ~~ :           ;`(@```))`~ ``; );(;));;,      : ~~
-  ~~  :            `X `(( `),    (;;);;;;`       :  ~~
- ~~~~ :            / `) `` /;~   `;;;;;;;);,     :  ~~~~
-~~~~  :           / , ` ,/` /     (`;;(;;;;,     : ~~~~
-  ~~~ :          (o  /]_/` /     ,);;;`;;;;;`,,  : ~~~
-   ~~ :           `~` `~`  `      ``;,  ``;" ';, : ~~
-    ~~:                             `'   `'  `'  :~~
-     ~`-----------------------------------------`~
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&multiline=true&width=435&height=100&lines=All+work+and+no+play+makes+Jack+a+dull+boy.;All+work+and+no+play+makes+Jack+a+dull+boy;All+work+and+no+play+makes+Jack+a+dull+boy.;All+work+and+no+play+makes+Jack+a+dull+boy;All+work+and+no+play+makes+Jack+a+dull+boy.)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
-- 🔭 Regretting the day I created a bespoke data refresh service
-- 🌱 I’m learning new things everyday (no lie)
-- 💬 Ask me about Azure, Terraform, Ansible, Docker and Tibetan Terriers
+- 🌱 I’m learning new things every day (no lie)
+- 💬 Ask me about AWS, Kubernetes, o11y and Tibetan Terriers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/booyaa/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: If you find something on the interwebs that's "booyaa" related on the interwebs I probably did it
+- 😄 Pronouns: he/him/dat boi
 
-<!--
-202010 - Regretting the day I created a bespoke data refresh service
-older - Big refactoring of the terraform to create our serverless functions and supporting resources
---> 
 ### Vital Statistics :P
 
 HT to @mattn and @yggie
@@ -37,4 +17,4 @@ HT to @mattn and @yggie
 
 lol so proud that my last streak is from 2014
 
-Incase you're wondering about the grade, it's based on the Academic grading system in Japan: [wikipedia](https://en.wikipedia.org/wiki/Academic_grading_in_Japan)
+In case you're wondering about the grade, it's based on the Academic grading system in Japan: [wikipedia](https://en.wikipedia.org/wiki/Academic_grading_in_Japan)
