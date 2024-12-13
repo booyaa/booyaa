@@ -16,8 +16,6 @@ HT to @mattn and @yggie
 
 In case you're wondering about the grade, it's based on the Academic grading system in Japan: [wikipedia](https://en.wikipedia.org/wiki/Academic_grading_in_Japan)
 
-[![asciicast](https://asciinema.org/a/d6f5vq1delsxnya2lfwuqw9hm.svg)](https://asciinema.org/a/d6f5vq1delsxnya2lfwuqw9hm)
-
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=booyaa)](https://git.io/streak-stats)
 lol so proud that my last streak is from 2014
